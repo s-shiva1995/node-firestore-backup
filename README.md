@@ -23,7 +23,7 @@ yarn global add firestore-backup
 Alternatively download the source.
 
 ```sh
-git clone https://github.com/steadyequipment/node-firestore-backup.git
+git clone https://github.com/s-shiva1995/node-firestore-backup.git
 ```
 
 ### Retrieving Google Cloud Account Credentials
